@@ -12,8 +12,8 @@
 
 - 💬 Ask me about **Front End Web Development.**
 
- 
-<a href="https://www.linkedin.com/in/chetan-sengar-94a390221/"><img src="https://github.com/0rGaan1c/0rGaan1c/blob/main/lin.png" width="40px"></a>
+ <a href="https://www.linkedin.com/in/chetan-sengar-94a390221/"><img src="https://raw.githubusercontent.com/0rGaan1c/0rGaan1c/main/twitter.ico?token=ASL3MHF74UTKG7X5TR6ZYHDBM2VT4" width="40px"></a>
+<a href="https://www.linkedin.com/in/chetan-sengar-94a390221/"><img src="https://github.com/0rGaan1c/0rGaan1c/blob/main/lin.png" width="38px"></a>
 
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 🔭 I’m currently working on ... -->
