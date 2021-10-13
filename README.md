@@ -4,8 +4,7 @@
 <!--
 **0rGaan1c/0rGaan1c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<!-- - 🤔 I’m looking for help with ... -->
-<!-- - 🔭 I’m currently working on ... -->
+
 
 - 🌱 I’m currently learning **Full Stack Web Development.**
 
@@ -13,8 +12,12 @@
 
 - 💬 Ask me about **Front End Web Development.**
 
-- 📫 How to reach me: 
+ 
+<a href="https://www.linkedin.com/in/chetan-sengar-94a390221/"><img src="https://github.com/0rGaan1c/0rGaan1c/blob/main/lin.png" width="40px"></a>
 
+<!-- - 🤔 I’m looking for help with ... -->
+<!-- - 🔭 I’m currently working on ... -->
+<!-- - 📫 How to reach me: -->
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
 
