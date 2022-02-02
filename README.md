@@ -6,13 +6,16 @@ I like to learn new things by building fun projects,
 I am passionate about anything that involves coding, be it Web Dev, Game Dev, or anything else. -->
 - 😁 I'm interested in **Web and Game Development.**
 
-- 🌱 I’m currently learning **Full Stack Web Development.**
+- 🌱 I’m currently learning **Node.js and Express.js.**
 
+- 🔭 I’m currently working on an **E-commerce website using Next.js and Firebase.**
+- 
 - 👯 I’m looking to collaborate on **Open Source Projects.**
 
-- 💬 Ask me about **Front End Web Development.**
+- 💬 Ask me about **Anything, I will try my best to help.**
 
-- 📫 How to reach me: **sengar.chetan.42@gmail.com** or Discord at **@0rGaan1c#0061.**
+- 📫 How to reach me: Send me a DM on Discord at **@0rGaan1c#0061.**
+
 
 
 
@@ -20,7 +23,7 @@ I am passionate about anything that involves coding, be it Web Dev, Game Dev, or
      <a target="_blank" href="https://www.linkedin.com/in/chetan-sengar-94a390221/"><img src="https://github.com/0rGaan1c/0rGaan1c/blob/main/linkedin.png" width="34px"></a>
 
 <!-- - 🤔 I’m looking for help with ... -->
-<!-- - 🔭 I’m currently working on ... -->
+
 
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
