@@ -9,7 +9,7 @@ I am passionate about anything that involves coding, be it Web Dev, Game Dev, or
 - 🌱 I’m currently learning **Node.js and Express.js.**
 
 - 🔭 I’m currently working on an **E-commerce website using Next.js and Firebase.**
-- 
+
 - 👯 I’m looking to collaborate on **Open Source Projects.**
 
 - 💬 Ask me about **Anything, I will try my best to help.**
