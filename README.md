@@ -1,4 +1,4 @@
-<h1 align="left">Hi there, I'm Chetan <img src="https://github.com/0rGaan1c/0rGaan1c/blob/main/wave.gif" width="40px" height"20px" /></h1>
+<h1 align="left">Hi there, I'm Chetan.</h1>
 <h3 align="left">I like to build fun things.</h3>
 
 <!-- <h3 align="left">About Me 🚀 </h3>
