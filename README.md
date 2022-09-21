@@ -6,9 +6,7 @@ I like to learn new things by building fun projects,
 I am passionate about anything that involves coding, be it Web Dev, Game Dev, or anything else. -->
 - 😁 I'm interested in **Web and Game Development.**
 
-- 🌱 I’m currently learning **Node.js and Express.js.**
-
-- 🔭 I’m currently working on an **E-commerce website using Next.js and Firebase.**
+- 🌱 I’m currently learning enrolled in a bootcamp by [Devsnest](https://devsnest.in/) where I am learning Full-Stack Web development.
 
 - 👯 I’m looking to collaborate on **Open Source Projects.**
 
