@@ -12,7 +12,6 @@ I am passionate about anything that involves coding, be it Web Dev, Game Dev, or
 
 - 💬 Ask me about **Anything, I will try my best to help.**
 
-- 📫 How to reach me: Send me a DM on Discord at **@0rGaan1c#0061.**
 
 
 
