@@ -6,18 +6,16 @@ I like to learn new things by building fun projects,
 I am passionate about anything that involves coding, be it Web Dev, Game Dev, or anything else. -->
 - 😁 I'm interested in **Web and Game Development.**
 
-- 🌱 I’m currently learning enrolled in a bootcamp by Cuvette where I am learning Full-Stack Web development.
+- 🌱 I’m currently working as an SDE-I at Guardians Emergency Response.
 
-- 👯 I’m looking to collaborate on **Open Source Projects.**
+- 👯 I am always looking to collaborate on **Open Source Projects.**
 
-- 💬 Ask me about **Anything, I will try my best to help.**
-
-
+- 💬 Ask me about **Anything, and I will try my best to help.**
 
 
 
-     <a target="_blank" href="https://twitter.com/0rGaan1c"><img src="https://github.com/0rGaan1c/0rGaan1c/blob/main/twitter.png" width="34px"></a>
-     <a target="_blank" href="https://www.linkedin.com/in/chetan-sengar-94a390221/"><img src="https://github.com/0rGaan1c/0rGaan1c/blob/main/linkedin.png" width="34px"></a>
+
+
 
 <!-- - 🤔 I’m looking for help with ... -->
 
