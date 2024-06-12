@@ -6,8 +6,6 @@ I like to learn new things by building fun projects,
 I am passionate about anything that involves coding, be it Web Dev, Game Dev, or anything else. -->
 - 😁 I'm interested in **Web and Game Development.**
 
-- 🌱 I’m currently working as an SDE-I at Guardians Emergency Response.
-
 - 👯 I am always looking to collaborate on **Open Source Projects.**
 
 - 💬 Ask me about **Anything, and I will try my best to help.**
